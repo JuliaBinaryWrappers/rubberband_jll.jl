@@ -1,0 +1,236 @@
+[[rubberband]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "189745d8501bb9953a35976d9e6623c12082f854"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "a0612777fc3c1e221c94c6b9d71190761d0a01af8bebfd83548dae898ec203c5"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[rubberband]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c5f8434f9e5b1674ac616fc0c8954168b144018"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "7458c00c92c802ff1af87dcad786d30f00ab5ae17e398ff5a44e7bc7cb3ade1f"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[rubberband]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "79b5b07dc04785fcd596297492b0420bbcc1240d"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "89ae471c0b39b521226087b720c456218b840de08a3d54a9a6ab6b8ff272ad62"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.aarch64-linux-musl-cxx03.tar.gz"
+[[rubberband]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae8a6bdfb6ded829028355332a5381bb45339ec5"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "519e570cbfb0246f6baa222e8085179a2a36b68d64f6d04d94f8a9ff3658399c"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.aarch64-linux-musl-cxx11.tar.gz"
+[[rubberband]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "21b2e835f395629757dddd6c155fd459fc974e6a"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "b23bee61e0a419bc6885545deca11e43121c599ffca8f4e0acff38db0afd05d4"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[rubberband]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dd7fd2bc191477c04fac46f9b74b8be323e8c1d8"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "e6620da8d06a32c7890c3016412f60679094919f23a05ec3df8b7e9cf865d258"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[rubberband]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7ec0262d34d13f63b544f76bc42347c2407fdbbe"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "a5d870ffe9c08fcfdbff94fa2fc7bbe8789af4c06dbcfca64e0357ce9f446ea6"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[rubberband]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1e851d2d305e7c35b306a95746a6c0e1a17c51c"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "28342622a8284018ae413f9db61d1dd88122959e06b5a40633217397284c6fc3"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[rubberband]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "91a4efd39b0f87d6752544518180c90f4432d574"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "98517b27d4dcf98883e77b99c4132c8492954e36b42e2fbce2c76b5551e1a303"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.i686-linux-gnu-cxx03.tar.gz"
+[[rubberband]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "07e9e9c666fe5454281473d81a43b2972634a6de"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "7bed9964ef8db88a867c5cd7dc47eb6444ec6e03b3ccdf161c7117113d256da6"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.i686-linux-gnu-cxx11.tar.gz"
+[[rubberband]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "22094980f6d9c1e64dd5fa8ab62fbc988d035fe6"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "d5b44d9c4bc0e70b22e259015b1cf4e4b37115424e6d1276ffd96a7ed8dece5b"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.i686-linux-musl-cxx03.tar.gz"
+[[rubberband]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "046ab227cb222fe6c7b9a73a7a7b3c2b06649002"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "664a6c7749186ba5007e6d20e8f8e47cd2fe7d9a2c725ffb017659f018b25806"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.i686-linux-musl-cxx11.tar.gz"
+[[rubberband]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "871f45d231731ab6368bfecfd079399cc0a4640b"
+os = "windows"
+
+    [[rubberband.download]]
+    sha256 = "f6212a72e5d438b197e9833b014f522ac38311737179ca7690184396e7e51152"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.i686-w64-mingw32-cxx03.tar.gz"
+[[rubberband]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f5896abcbee5ccb7b8fa7790fc844b4c8689641b"
+os = "windows"
+
+    [[rubberband.download]]
+    sha256 = "292748c3aa03a819b34f6733ff670bbf84ef093f363d2ab85b893d89feee123b"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.i686-w64-mingw32-cxx11.tar.gz"
+[[rubberband]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bcc9f5cbdabca2c04252a99ba93fda11251d2612"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "2d46f1081862e70b9358d2316f67a2ba92455c31baac3d3abeeae731d8413310"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[rubberband]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7926f405f1c2d44fef18bd157d4d6ded10a394ef"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "877a5f1d0e12b391039dfff1b1608131f7496f2af1fd2b8417ebb09cc388bd1e"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+git-tree-sha1 = "ca98786f6b8c0de090ad1d6ed05f696f60aaa32f"
+os = "macos"
+
+    [[rubberband.download]]
+    sha256 = "9bf3d18d4e20c083b0698bf46c762e2715e9f689eac601c06819037343f86394"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-apple-darwin.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f0efd8a96940a74c16f2d980e3ac223618fe1cf1"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "2be2853bc4a3d8a2e289ff0a57327dcd851435189c87a37f2d279634e1f7e883"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "033eb95f98378f90b6af528e56158dcd0fb6c150"
+libc = "glibc"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "ec84191f2061c224b3149aef213243ca98aa55336622edad3c467518580b6157"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d945709729e5b42aab831827e864b17488023dc"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "7e9ba281f2523bdfa65abf09c8cd281725b2fbc57676bab7391c6d33f87ba45a"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-linux-musl-cxx03.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1fb59285e5e7e6ccd91bb46727d64580ddb5120"
+libc = "musl"
+os = "linux"
+
+    [[rubberband.download]]
+    sha256 = "06e6127ac302593052f9ec5e20ad264f045d51d592356b3f87c598cc15c0d454"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-linux-musl-cxx11.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+git-tree-sha1 = "60b38002f6a9d4ca001e00241b17b2ad599b1cd6"
+os = "freebsd"
+
+    [[rubberband.download]]
+    sha256 = "b2248d68891f689f19b4d9170f6866af153c1872e7abe156e8b5bf2c59a3a4de"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-unknown-freebsd.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "928547380ba199a2ae3d9dd8634b9e950ab90e9c"
+os = "windows"
+
+    [[rubberband.download]]
+    sha256 = "ed71780187cc750c4db465f29b79822511ded7272a3a89158c51b4566d9f87ba"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[rubberband]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d083beea870c49b4a5cf2d235adc9ccdb9b3220"
+os = "windows"
+
+    [[rubberband.download]]
+    sha256 = "6a5b0054c3bb5c0cecdb553645204514b34e45084c4e63fc3407f91f7ab1a93c"
+    url = "https://github.com/JuliaBinaryWrappers/rubberband_jll.jl/releases/download/rubberband-v1.9.0+0/rubberband.v1.9.0.x86_64-w64-mingw32-cxx11.tar.gz"
